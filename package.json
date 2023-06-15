@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-simple",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "eslint",
+    "prettier",
+    "husky",
+    "lint-staged"
+  ],
+  "description": "A Simple TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bj75326/cra-template-simple.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/bj75326/cra-template-simple/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
