@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-simple",
+  "name": "cra-template-sandbox",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -14,14 +14,14 @@
   "description": "A Simple TypeScript template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bj75326/cra-template-simple.git"
+    "url": "https://github.com/bj75326/cra-template-sandbox.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/bj75326/cra-template-simple/issues"
+    "url": "https://github.com/bj75326/cra-template-sandbox/issues"
   },
   "files": [
     "template",

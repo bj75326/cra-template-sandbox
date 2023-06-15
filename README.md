@@ -1,4 +1,4 @@
-# cra-template-simple
+# cra-template-sandbox
 
 This is a simple TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
@@ -9,16 +9,16 @@ Add below to standardize the development process.
 - [x] husky
 - [x] lint-stage
 
-To use this template, add `--template simple` when creating a new app.
+To use this template, add `--template sandbox` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template simple
+npx create-react-app my-app --template sandbox
 
 # or
 
-yarn create react-app my-app --template simple
+yarn create react-app my-app --template sandbox
 ```
 
 For more information, please refer to:
