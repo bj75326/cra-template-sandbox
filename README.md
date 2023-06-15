@@ -2,6 +2,13 @@
 
 This is a simple TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
+Add below to standardize the development process.
+
+- [x] Eslint
+- [x] Prettier
+- [x] husky
+- [x] lint-stage
+
 To use this template, add `--template simple` when creating a new app.
 
 For example:
